@@ -1,0 +1,146 @@
+[
+  {
+    "title": "Microwave Radiation",
+    "brief": "Microwave ovens emit non-ionizing radiation that is safe for heating food and doesn't cause cancer",
+    "myth": "Microwaves cause cancer and make food radioactive",
+    "reality": "FDA-regulated microwaves are safe. Non-ionizing radiation only heats food without altering its molecular structure",
+    "risk_level": "Low",
+    "tips": [
+      "Don't stand directly in front while operating",
+      "Check for damage regularly",
+      "Replace if over 10 years old"
+    ]
+  },
+  {
+    "title": "Charging Cables & EMF",
+    "brief": "Phone chargers emit electromagnetic fields (EMFs) that may disrupt sleep and melatonin production",
+    "myth": "Charging devices near you is harmless",
+    "reality": "EMFs from charging cables can affect sleep quality. WHO classifies EMFs as 'possibly carcinogenic'",
+    "risk_level": "Medium",
+    "tips": [
+      "Charge devices at least 6 feet from bed",
+      "Charge during day, not at night",
+      "Use airplane mode while sleeping"
+    ]
+  },
+  {
+    "title": "Nonstick Cookware (PFAS)",
+    "brief": "Nonstick pans contain PFAS 'forever chemicals' that can release toxic fumes when overheated above 500\u00b0F",
+    "myth": "All nonstick pans are safe to use",
+    "reality": "PFAS chemicals linked to kidney, testicular, and thyroid cancers. Can cause 'Teflon flu' when overheated",
+    "risk_level": "High",
+    "tips": [
+      "Never heat above 500\u00b0F",
+      "Replace scratched pans",
+      "Switch to cast iron or ceramic"
+    ]
+  },
+  {
+    "title": "Plastic Food Containers",
+    "brief": "Plastic containers leach BPA, phthalates, and microplastics into food, especially when heated or scratched",
+    "myth": "'BPA-free' plastic containers are completely safe",
+    "reality": "BPA replacements (BPS, BPF) may be equally harmful. Microplastics linked to heart disease and cancer",
+    "risk_level": "High",
+    "tips": [
+      "Never microwave plastic",
+      "Switch to glass containers",
+      "Avoid storing acidic/fatty foods in plastic"
+    ]
+  },
+  {
+    "title": "Air Fresheners & Plugins",
+    "brief": "Air fresheners emit toxic VOCs including formaldehyde, benzene, and toluene that pollute indoor air",
+    "myth": "Air fresheners clean and purify the air",
+    "reality": "They mask odors while releasing carcinogens. Can trigger asthma, headaches, and respiratory issues",
+    "risk_level": "High",
+    "tips": [
+      "Use essential oil diffusers",
+      "Open windows for ventilation",
+      "Avoid 'green' labeled products (often misleading)"
+    ]
+  },
+  {
+    "title": "Scented Candles",
+    "brief": "Paraffin wax candles release benzene, toluene, and soot that can cause cancer and respiratory damage",
+    "myth": "Scented candles create a healthy, relaxing atmosphere",
+    "reality": "Petroleum-based candles emit carcinogens. Can cause headaches, asthma, and long-term lung damage",
+    "risk_level": "Medium",
+    "tips": [
+      "Choose beeswax or soy candles",
+      "Avoid synthetic fragrances",
+      "Ventilate room after use"
+    ]
+  },
+  {
+    "title": "Dryer Sheets & Fabric Softeners",
+    "brief": "Contain quaternary ammonium compounds, phthalates, and VOCs linked to respiratory issues and cancer",
+    "myth": "Dryer sheets just make clothes soft and smell fresh",
+    "reality": "Chemicals include benzyl acetate (pancreatic cancer link), chloroform, and neurotoxins",
+    "risk_level": "High",
+    "tips": [
+      "Use wool dryer balls",
+      "Add white vinegar to rinse cycle",
+      "Avoid if you have asthma"
+    ]
+  },
+  {
+    "title": "Mixing Cleaning Products",
+    "brief": "Bleach mixed with ammonia or vinegar creates deadly chloramine or chlorine gas",
+    "myth": "Combining cleaners makes them more powerful",
+    "reality": "Creates toxic gases causing respiratory damage, chemical burns, and can be fatal in high doses",
+    "risk_level": "Critical",
+    "tips": [
+      "NEVER mix bleach with anything",
+      "Read all product labels",
+      "Use one product at a time"
+    ]
+  },
+  {
+    "title": "LED Blue Light Exposure",
+    "brief": "Blue light from LEDs and screens suppresses melatonin and disrupts circadian rhythms",
+    "myth": "LED lights are just energy-efficient and harmless",
+    "reality": "Night exposure linked to sleep disorders, obesity, diabetes, and increased disease risk",
+    "risk_level": "Medium",
+    "tips": [
+      "Use warm bulbs in bedrooms",
+      "Avoid screens 2 hours before sleep",
+      "Use blue light blocking glasses"
+    ]
+  },
+  {
+    "title": "Aluminum Foil with Acidic Foods",
+    "brief": "Cooking acidic foods (tomatoes, citrus) in aluminum foil causes metal leaching into food",
+    "myth": "Aluminum foil is safe for all cooking",
+    "reality": "Acid + heat dissolves protective oxide layer. High aluminum linked to neurotoxicity risks",
+    "risk_level": "Medium",
+    "tips": [
+      "Avoid acidic/salty foods in foil",
+      "Use parchment paper instead",
+      "Never use with steel pans (galvanic corrosion)"
+    ]
+  },
+  {
+    "title": "New Carpet VOCs",
+    "brief": "New carpets off-gas formaldehyde, benzene, and styrene for weeks to months after installation",
+    "myth": "That 'new carpet smell' means it's clean",
+    "reality": "VOC emissions peak in first 72 hours. Can cause headaches, dizziness, respiratory issues, and asthma",
+    "risk_level": "Medium",
+    "tips": [
+      "Choose low-VOC or natural fiber carpets",
+      "Ventilate heavily for first weeks",
+      "Consider cork, tile, or wood flooring"
+    ]
+  },
+  {
+    "title": "Household Cleaning Products",
+    "brief": "Common cleaners contain formaldehyde, benzene, and VOCs that are suspected carcinogens",
+    "myth": "Commercial cleaners are regulated and safe",
+    "reality": "Many contain reproductive hormone disruptors, asthma inducers, and human carcinogens",
+    "risk_level": "High",
+    "tips": [
+      "Choose EPA Safer Choice certified products",
+      "Avoid triclosan and ammonia compounds",
+      "Read labels carefully"
+    ]
+  }
+]
